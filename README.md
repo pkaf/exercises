@@ -1,2 +1,2 @@
-# exercises
-Notebooks with python scripts and exercises from the blog and beyond
+# Exercises
+In this repo you find all notebooks and exercises that appears on my [blogs](https://pkaf.github.io/year-archive/).
